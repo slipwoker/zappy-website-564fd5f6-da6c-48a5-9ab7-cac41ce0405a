@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-564fd5f6.zappy5.app
+https://example.com
 גלו איך שירותי אוטומציה עסקית יכולים לפשט את התהליכים שלכם, להפחית עבודה ידנית ולהאיץ צמיחה. פתרונות cloud pak for business automation חכמים שמתאימים בדיוק לצרכים שלכם. התחילו לייעל עוד היום!
 
 ### שירותים
-https://-564fd5f6.zappy5.app/services
+https://example.com/services
 מחפשים business automation software שמתאים בדיוק לעסק שלכם? אצלנו תמצאו מגוון שירותי אוטומציה מתקדמים שחוסכים זמן, מייעלים משימות חוזרות ומשדרגים את הביצועים. בחרו את הפתרון המושלם עכשיו!
 
 ### תהליך
-https://-564fd5f6.zappy5.app/process
+https://example.com/process
 היכנסו אל מאחורי הקלעים של תהליך ההטמעה שלנו: מאבחון צרכים ועד להשקת מערכת business automation services חלקה. נלווה אתכם צעד-צעד כדי להבטיח מעבר קל ומהיר לעבודה חכמה יותר. בואו נתחיל!
 
 ### צור קשר
-https://-564fd5f6.zappy5.app/contact
+https://example.com/contact
 מוכנים להפוך את העסק לאוטומטי? צרו קשר עם אוטמציות לעבוה קלה וגלו איך business automation companies מובילות מייעלות ארגונים. השאירו פרטים ונחזור אליכם עם ייעוץ מותאם אישית שיחסוך לכם המון זמן.
 
 ### תודה שפניתם אלינו
-https://-564fd5f6.zappy5.app/thank-you
+https://example.com/thank-you
 אוטמציות לעבוה קלה - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-564fd5f6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-564fd5f6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-564fd5f6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-564fd5f6.zappy5.app/contact
-- Endpoint: https://-564fd5f6.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Business Automation
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-564fd5f6.zappy5.app/sitemap.xml
-- Robots: https://-564fd5f6.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-564fd5f6.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
